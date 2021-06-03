@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "684537129409",
+    "project_id": "partportal-15b38",
+    "storage_bucket": "partportal-15b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684537129409:android:fc1bb4b97b2655db3b2740",
+        "android_client_info": {
+          "package_name": "com.example.partyportal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684537129409-sn7plujrp3gb9e3ugsla9e7rn2lpckob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.partyportal",
+            "certificate_hash": "ca5d3cc9f8d4c331eb804ffb2c08ae26f723b080"
+          }
+        },
+        {
+          "client_id": "684537129409-grl25dft2g8ca9g9cm62nq6kgvuj5q80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8K29I0XX7ncsnWQMyJQ_pK8nKSNOFRSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684537129409-grl25dft2g8ca9g9cm62nq6kgvuj5q80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
